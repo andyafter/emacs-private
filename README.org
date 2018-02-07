@@ -9,3 +9,11 @@ You'll find [[https://github.com/hlissner/doom-emacs/wiki/Customization][more in
 
 * Added Packages
  There are no added packages yet.
+* Features
+** TODO Doom Smart Parenthesis and paredit
+** TODO Yield History M-y
+** TODO Imsaved buffer notification
+** TODO Faster comments
+** TODO Intelligent registers
+** TODO Faster go-guru-referrers
+** TODO Code Refactoring
