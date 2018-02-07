@@ -1,8 +1,11 @@
-#+TITLE: :private modules
+#+TITLE: Private Modules
 
-Use this directory to store your private configuration modules.
+* Doom Emacs
+This repo is my configuration under [[https://github.com/hlissner/doom-emacs][Doom-Emacs]]
 
-Mine is included as a reference. I recommend you neither delete nor rename it, to avoid merge conflicts upstream.
+Use this directory to store private configuration modules.
 
------
-You'll find [[https://github.com/hlissner/doom-emacs/wiki/Customization][more information about customizing Doom]] on the [[https://github.com/hlissner/doom-emacs/wiki][wiki]].
+You'll find [[https://github.com/hlissner/doom-emacs/wiki/Customization][more information about customizing Doom]] on the [[https://github.com/hlissner/doom-emacs/wiki][wiki]]
+
+* Added Packages
+ There are no added packages yet.
