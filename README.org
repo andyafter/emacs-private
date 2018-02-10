@@ -17,3 +17,4 @@ You'll find [[https://github.com/hlissner/doom-emacs/wiki/Customization][more in
 ** TODO Intelligent registers
 ** TODO Faster go-guru-referrers
 ** TODO Code Refactoring
+** TODO Multiple Cursors, in EVIL!!!!!
