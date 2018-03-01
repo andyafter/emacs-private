@@ -3,6 +3,8 @@
 .idea
 tmp/
 
+default
+
 # emacs tempfiles that shouldn't be there
 .mc-lists.el
 .org-id-locations
